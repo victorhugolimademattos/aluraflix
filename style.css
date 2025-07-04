@@ -1,6 +1,6 @@
 
 body {
-  background-color: hwb(103 4% 2%);         
+  background-color: hwb(122 2% 38% / 0.697);         
   color: black rb(7, 7, 7);                   
   font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;  
   margin: 0;                      
@@ -14,7 +14,7 @@ header {
 
 h1 {
   font-size: 30px;                
-  border-bottom: double 5px black gb(9, 9, 9);
+  border-bottom: double 5px rgb(98, 255, 95) gb(9, 9, 9);
   text-align: center;
 }
 
