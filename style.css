@@ -1,0 +1,31 @@
+
+body {
+  background-color: hwb(103 4% 2%);         
+  color: black rb(7, 7, 7);                   
+  font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;  
+  margin: 0;                      
+}
+
+header {
+  font-size: 60px;                
+  padding: 6px;                  
+  text-align: center;            
+}
+
+h1 {
+  font-size: 30px;                
+  border-bottom: double 5px black gb(9, 9, 9);
+  text-align: center;
+}
+
+p {
+  font-size: 20px;                
+  text-align: center;             
+}
+
+iframe, video {
+  display: block;               
+  margin: 0 auto;                 
+  width: 80%;                    
+  max-width: 700px;             
+}
