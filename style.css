@@ -1,31 +1,31 @@
 
 body {
-  background-color: hwb(122 2% 38% / 0.697);         
-  color: black rb(7, 7, 7);                   
-  font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;  
-  margin: 0;                      
+  background-color: hwb(54 6% 9% / 0.712);
+  color: black rb(7, 7, 7);
+  font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;
+  margin: 0;
 }
 
 header {
   font-size: 60px;                
-  padding: 6px;                  
+  padding: 6px;
   text-align: center;            
 }
 
 h1 {
-  font-size: 30px;                
+  font-size: 60px;
   border-bottom: double 5px rgb(98, 255, 95) gb(9, 9, 9);
   text-align: center;
 }
 
 p {
-  font-size: 20px;                
-  text-align: center;             
+  font-size: 20px;
+  text-align: center;
 }
 
 iframe, video {
-  display: block;               
-  margin: 0 auto;                 
-  width: 80%;                    
-  max-width: 700px;             
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 700px;
 }
